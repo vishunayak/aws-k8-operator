@@ -235,4 +235,4 @@ items:
             - --cluster-name=i-05407f872ad0b6362@eksworkshop-awsoperator.ap-southeast-2.eksctl.io
             - --region=ap-southeast-2
             - --account-id=473453268965
-            - --k8s-namespace=aws-service-operato
+            - --k8s-namespace=aws-service-operator
